@@ -1,2 +1,4 @@
-# Product-Owner---Bryan-Dias
-How Scrum Product Owners Drive Success
+# Product-Owner-Bryan-Dias
+Commercial Title - How Scrum Product Owners Drive Success
+Academic Title - Studying the role of the Scrum Product Owner in different Development companies 
+The aim of my research will be to study the role of the Scrum Product Owner across different IT development companies. Will be researching for Software development companies who use Scrum for product development and also for companies who have Development teams for their inhouse Software development. This will help to understand how the PO roles functions in organizations having different business goals and mindsets.  There is a potential diversity in the role of a Product Owner in how it is interpreted and implemented in Scrum across different organizations, industries, and contexts. The research will investigate into the different variations of the Product Owner role. The research aims to explore how the required skills may vary based on factors such as industry and organizational size.
